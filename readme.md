@@ -10,5 +10,9 @@ Nova funcionalidade do projeto(
 
 chama()
 
+<<<<<<< HEAD
 
 Essa funcionaidade foi adiicionada em uma outra branch
+=======
+alteração criada na main
+>>>>>>> main
